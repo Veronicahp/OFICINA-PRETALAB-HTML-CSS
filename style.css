@@ -1,0 +1,18 @@
+.primeirasListas{
+    color:rgb(57, 82, 13)
+}
+
+.segundasListas{
+    color:darkred
+}
+
+#musica{
+    color:deeppink
+}
+
+.paragrafo{
+    font-family:monospace;
+    font-weight:200;
+    line-height: 2;
+    border: 10px solid #336099;
+}

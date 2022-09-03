@@ -1,14 +1,12 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 body {
     border: 1px solid black;
 }
 
-section {
-    float: left;
-}
 
 h1 {
     text-align: center;
@@ -19,12 +17,12 @@ h1 {
     height: 212px;
     border: 1px solid black;
     margin: 10px 0 10px 11px;
-    padding: 10px; 
+    padding: 10px;
+    display: inline-block;
 }
 
 .card-titulo {
     font-size: medium;
-    margin: 0 0 10px 0;
     display: inline;
     margin: 0 0 0 20px
 }
